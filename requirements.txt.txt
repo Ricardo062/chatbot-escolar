@@ -1,0 +1,10 @@
+flask
+flask-cors
+openai
+langchain-openai
+langchain-text-splitters
+langchain-community
+faiss-cpu
+pypdf2
+tiktoken
+gunicorn

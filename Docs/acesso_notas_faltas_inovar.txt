@@ -1,0 +1,60 @@
+Access to Grades, Absences and School Information – Inovar Consulta
+
+The school uses the platform "Inovar Consulta" to provide students and guardians with access to academic information.
+
+What can be viewed in Inovar Consulta?
+- Grades for all subjects
+- Absences (justified and unjustified)
+- Late arrivals (punctuality records)
+- Class schedule and school calendar
+- Assignments, tests and evaluations
+- Teacher notes and observations
+- Important dates and announcements
+- School documents uploaded by teachers or direction
+
+Who can access the platform?
+- Students
+- Parents/Guardians
+
+Each user has an account associated with the school.
+
+How do parents access their child’s grades?
+1. Go to the Inovar Consulta page of the school.
+2. Enter your login and password (provided by the school or activated through the "Activate Access" option).
+3. After logging in, parents can view:
+   - All grades for each subject
+   - Absences and justification status
+   - Punctuality records
+   - Test dates and deadlines
+   - Documents sent by teachers
+   - Important school notifications
+
+How do students access their grades?
+Students access the same platform using their school-provided login credentials.
+
+Recovering or activating access:
+- If a parent or student forgets their password, they can use the “Recover Password” option on the Inovar page.
+- If the account has never been activated, use the “Activate Access” option.
+- In case of access issues, the parent or student must contact the Class Director (DT) or the School Secretariat.
+
+What information is required to activate a parent’s account?
+The school may request:
+- Full name of the student
+- Student number
+- Parent/guardian email
+- Identification document (in some cases)
+
+Security:
+- Parents should not share their login with students.
+- Students must not attempt to access their guardian accounts.
+- Personal information is protected according to school and national privacy regulations.
+
+Platform availability:
+- Inovar Consulta is accessible 24/7.
+- Access requires internet connection.
+- Works on computer and mobile devices.
+
+Notes:
+- All official academic records and absence details are updated in Inovar Consulta by teachers and administrative staff.
+- This platform is the official source for grades and attendance information.
+- O nome do diretor é Fernando Marques.

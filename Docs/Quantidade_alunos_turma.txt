@@ -1,0 +1,50 @@
+Ano lectivo 2025/2026 - Número de alunos por turma (03/02/2026)
+7º A - 19 alunos
+7º B - 28 alunos
+8º A - 20 alunos
+8º B - 20 alunos
+8º C - 21 alunos
+9º A - 23 alunos
+9º B - 22 alunos
+10º A - 27 alunos
+10º B - 23 alunos
+10º C - 20 alunos
+10º D - 25 alunos
+10º E - 25 alunos
+10º F - 23 alunos 
+10º G - 27 alunos
+10º H - 27 alunos
+11º A - 23 alunos
+11º B - 25 alunos
+11º C - 18 alunos
+11º D - 21 alunos
+11º E - 24 alunos
+11º F - 24 alunos
+11º G - 23 alunos
+11º H - 16 alunos
+12º A - 19 alunos
+12º B - 26 alunos
+12º C - 20 alunos
+12º D - 23 alunos 
+12º E - 14 alunos
+12º F - 17 alunos 
+12º G - 26 alunos
+12º H - 18 alunos
+10º AP2528 (profissional) - 14 alunos
+10º DES2528 (profissional) - 16 alunos
+10º MA2528 (profissional) - 15 alunos
+10º MUL2528 (profissional) - 16 alunos
+10º SIS2528 (profissional) - 16 alunos
+10º VM2528 (profissional) - 16 alunos
+11º 1MA2427 (profissional) - 13 alunos
+11º 2MA2427 (profissional) - 12 alunos
+11º JUV2427 (profissional) - 10 alunos
+11º MUL2427 (profissional) - 16 alunos
+11º SIS2427 (profissional) - 10 alunos
+11º TAR2427 (profissional) - 9 alunos
+12º CSD2326 (profissional) - 11 alunos
+12º DES2326 (profissional) - 15 alunos
+12º MA2326 (profissional) - 7 alunos
+12º SIS2326 (profissional) - 13 alunos
+
+As de designações específicas (CSD2326, DES2326, MA2326, SIS2326), são de cursos profissionais.
