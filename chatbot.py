@@ -16,7 +16,8 @@ from langchain_community.vectorstores import FAISS
 # =====================
 # Config
 # =====================
-FOLDER_PATH = r"C:\Users\ESDACSF\Desktop\Arquivos para chatbot"
+BASE_DIR = Path(__file__).resolve().parent
+FOLDER_PATH = BASE_DIR / "Docs"
 
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
